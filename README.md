@@ -1,1 +1,1 @@
-# Python_Code
+### 🚀 Welcome to my repository containing 100+ beginner-friendly codes! Explore various functions and libraries in Python through these hands-on examples. Perfect for those starting their coding journey! 🌟
